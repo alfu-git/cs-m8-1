@@ -27,6 +27,10 @@ const Navbar = () => {
             <Link href="/models">Models</Link>
           </li>
 
+          <li>
+            <Link href="/posts">Posts</Link>
+          </li>
+
           {!user && (
             <>
               <li>

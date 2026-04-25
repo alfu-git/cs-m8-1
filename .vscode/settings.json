@@ -1,6 +1,6 @@
 {
-  "simpleCodingTimeTracker.inactivityTimeout": 40,
-  "simpleCodingTimeTracker.focusTimeout": 60,
+  "simpleCodingTimeTracker.inactivityTimeout": 5,
+  "simpleCodingTimeTracker.focusTimeout": 30,
   "simpleCodingTimeTracker.statusBar.showSeconds": true,
   "simpleCodingTimeTracker.statusBar.icon": "$(code)",
   "simpleCodingTimeTracker.statusBar.backgroundStyle": "default",

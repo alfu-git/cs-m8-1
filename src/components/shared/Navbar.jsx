@@ -21,6 +21,10 @@ const Navbar = () => {
           <li>
             <Link href="/auth/sign-up">Sign Up</Link>
           </li>
+
+          <li>
+            <Link href="/auth/sign-in">Sign In</Link>
+          </li>
         </ul>
       </header>
     </nav>
